@@ -55,7 +55,7 @@ pod 'ConnectivityDebugUI', :configurations => ['Debug']
 ### Swift Package Manager
 
 ```swift
-.package(url: "https://git.moliparty.com/xindegitzhanghao/ConnectivityKit.git", from: "0.1.0")
+.package(url: "https://github.com/EggmanQi/ConnectivityKit.git", from: "0.1.0")
 ```
 
 按需引入 `ConnectivityCore` / `ConnectivityUI` / `ConnectivityDebugUI`。
