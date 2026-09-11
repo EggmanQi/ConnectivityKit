@@ -2,10 +2,10 @@ Pod::Spec.new do |s|
   s.name             = 'ConnectivityUI'
   s.version          = '0.1.0'
   s.summary          = 'In-room signal indicator UI built on ConnectivityCore.'
-  s.homepage         = 'https://github.com/EggmanQi/ConnectivityKit'
+  s.homepage         = 'https://git.moliparty.com/xindegitzhanghao/ConnectivityKit'
   s.license          = { :type => 'Apache 2.0', :file => 'LICENSE' }
   s.author           = { 'E-Parti' => 'dev@example.invalid' }
-  s.source           = { :git => 'https://github.com/EggmanQi/ConnectivityKit.git',
+  s.source           = { :git => 'https://git.moliparty.com/xindegitzhanghao/ConnectivityKit.git',
                          :tag => s.version.to_s }
 
   s.ios.deployment_target = '13.0'
